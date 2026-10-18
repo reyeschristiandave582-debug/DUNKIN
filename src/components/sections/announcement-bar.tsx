@@ -19,8 +19,8 @@ const firstNames = [
 const lastInitials = ["B.", "D.", "F.", "H.", "J.", "L.", "M.", "P.", "Q.", "V.", "X.", "Z.", "K.", "N.", "R."];
 
 const actions = [
-  "just claimed a $250 Build-A-Bear card!",
-  "just claimed a $250 Halloween voucher!",
+  "just claimed a $100 Dunkin card!",
+  "just claimed a $100 Halloween voucher!",
   "just unlocked reward eligibility!",
   "just completed the review survey!",
   "just verified eligibility!"
