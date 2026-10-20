@@ -10,7 +10,7 @@ import { Star } from 'lucide-react';
  * enhanced outer ambient glow, ring highlights, and star accents.
  */
 export default function CTAButton() {
-  const url = "https://giftclick.org/aff_c?offer_id=1765&aff_id=200438&source=DUNKIN";
+  const url = "https://giftclick.org/aff_c?offer_id=1765&aff_id=200438&source=DUNKIINNN";
 
   const handleClick = (e: React.MouseEvent) => {
     // For Orchids preview environment
